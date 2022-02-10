@@ -52,5 +52,5 @@ With Aeroh One, make your smart home smarter, and that too without breaking your
 ## Directory Structure
 
 - `/case`: CAD Files for printing the enclosure or assist with custom mounts for the enclosure
-- `/code`: Firmware for the Wireless Connectivity, Infrared Remote Rx/Tx
-- `/pcb`: Gerber files and schematic for PCB design and production
+- `/code`: Firmware for the Wireless Connectivity, Infrared Remote Rx/Tx, and Mobile Apps
+- `/pcb`: Gerber files and schematic for PCB design and production1
