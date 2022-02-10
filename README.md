@@ -32,9 +32,9 @@ Internet Connected Infrared Remote for Alexa, Google Assitant, Apple Homekit (Si
 **Front of the PCB with IR Receiver, Status LED, control button**
 
 
-![PCB Front](Dragster.jpg)
+![PCB Front](media/pcb-front.jpg)
 
 **Back of the PCB with IR Emitter**
 
 
-![PCB Back](Dragster.jpg)
+![PCB Back](media/pcb-back.jpg)
