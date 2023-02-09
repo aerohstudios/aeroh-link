@@ -25,3 +25,5 @@ Please feel free to create a Github issue if you need help or facing challenges.
 ## Contribute
 
 User contributions are welcome. Please upload files in `.3mf` format, and a photo (`.jpg`, under 300KB) of the mount.
+
+The enclosure design is in [/cad/case](/cad/case) directory. You can grab dimentions for the Aeroh Link enclosure from [/cad/case/Aeroh_Link_Autodesk_Parameters.csv](/cad/case/Aeroh_Link_Autodesk_Parameters.csv) file. If you use [Parameter I/O](https://apps.autodesk.com/FUSION/en/Detail/Index?id=1801418194626000805&appLang=en&os=Win64) plugin for Fusion 360, the CSV file can directly be imported.
