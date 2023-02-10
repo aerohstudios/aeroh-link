@@ -1,7 +1,7 @@
 # Aeroh Link Open Source Resources
 
 ## API Documentation
-[https://apidocs.aeroh.org/docs/cloud/v1](https://aerohstudios.github.io/aeroh-api/docs/cloud/v1/)
+[https://apidocs.aeroh.org/docs/cloud/v1](https://apidocs.aeroh.org/docs/cloud/v1)
 
 ## Firmware
 [code/esp32-core](code/esp32-core)
