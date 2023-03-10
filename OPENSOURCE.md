@@ -10,7 +10,7 @@
 [pcb/Aeroh_One_Schematic_Rev_1.3.2.pdf](pcb/Aeroh_One_Schematic_Rev_1.3.2.pdf)
 
 ## Bill of Materials
-[main/pcb/Aeroh_One_BOM.csv](main/pcb/Aeroh_One_BOM.csv)
+[main/pcb/Aeroh_One_BOM.csv](pcb/Aeroh_One_BOM.csv)
 
 ## Enclosure Design
 [case](cad/case)
