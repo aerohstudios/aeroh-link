@@ -1,0 +1,15 @@
+[submodule "code/aeroh-one-esp32c3-fw"]
+	path = code/aeroh-one-esp32c3-fw
+	url = git@github.com:aerohstudios/aeroh-one-esp32c3-fw.git
+[submodule "code/aeroh-cloud"]
+	path = code/aeroh-cloud
+	url = git@github.com:aerohstudios/aeroh-cloud.git
+[submodule "code/aeroh-api"]
+	path = code/aeroh-api
+	url = git@github.com:aerohstudios/aeroh-api.git
+[submodule "code/aeroh-ios"]
+	path = code/aeroh-ios
+	url = git@github.com:aerohstudios/aeroh-ios.git
+[submodule "code/aeroh-android"]
+	path = code/aeroh-android
+	url = git@github.com:aerohstudios/aeroh-android.git
